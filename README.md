@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandronister/)](https://www.linkedin.com/in/sandronister/) 
 
 
-I am a Software Engineer focused on contributing to the construction of high-demand applications
+I am a Software Engineer focused on contributing to construction of high-demand applications
 
 
 
