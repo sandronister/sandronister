@@ -18,5 +18,3 @@ I am a Software Engineer focused on contributing to construction of high-demand 
 <a href="https://www.postgresql.org/" title="Postgres"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/postgresql.svg" alt="Postgres" width="21px" height="21px"></a>
 <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px"></a>
 <a href="https://grpc.io/" title="gRPC"><img src="https://grpc.io/img/logos/grpc-icon-color.png" alt="gRPC" width="21px" height="21px"></a>
-<a href="https://reactjs.org/" title="React"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React" width="21px" height="21px"></a>
-<a href="https://graphql.org/" title="GraphQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/graphql.svg" alt="GraphQL" width="21px" height="21px"></a>
