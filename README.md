@@ -3,9 +3,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandronister/)](https://www.linkedin.com/in/sandronister/) 
 
 
-I am a Software Engineer focused on contributing to construction of high-demand applications
+I am a Software Engineer focused on contributing to construction of high-demand applications. Currently, I'm focusing in projects with Golang
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=sandronister&count_private=true&show_icons=true&hide_border=true&theme=tokyonight)
 
+<a href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ConstaXI">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sandronister&layout=compact&theme=radical" />
+</a>
 
 ### Some tools 
 
