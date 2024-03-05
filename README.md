@@ -7,9 +7,7 @@ I am a Software Engineer focused on contributing to construction of high-demand 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sandronister&count_private=true&show_icons=true&hide_border=true&theme=tokyonight)
 
-<a href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sandronister">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sandronister&layout=compact&theme=radical" />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandronister&hide=javascript,html)
 
 ### Some tools 
 
