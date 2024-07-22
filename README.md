@@ -7,7 +7,7 @@ I am a Software Engineer focused on contributing to construction of high-demand 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sandronister&count_private=true&show_icons=true&hide_border=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandronister&hide=javascript,html,java,dart,kotlin,ruby,swift)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandronister&hide=javascript,html,java,dart,kotlin,ruby,swift,css,python,Objetive-C)
 
 ### Some tools 
 
