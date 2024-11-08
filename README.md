@@ -20,3 +20,5 @@ I am a Software Engineer focused on contributing to construction of high-demand 
 <a href="https://www.postgresql.org/" title="Postgres"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/postgresql.svg" alt="Postgres" width="21px" height="21px"></a>
 <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px"></a>
 <a href="https://grpc.io/" title="gRPC"><img src="https://grpc.io/img/logos/grpc-icon-color.png" alt="gRPC" width="21px" height="21px"></a>
+
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=sandronister&label=Profile%20views&color=ce9927&style=flat" alt="sandronister" /> </p>
