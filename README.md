@@ -12,6 +12,7 @@ I am a Software Engineer focused on contributing to construction of high-demand 
 ### Some tools 
 
 <a href="https://java.com/" title="Go"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="Go" width="21px" height="21px"></a>
+<a href="https://quarkus.io/" title="Go"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/quarkus.svg" alt="Go" width="21px" height="21px"></a>
 <a href="https://go.dev/" title="Go"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/go.svg" alt="Go" width="21px" height="21px"></a>
 <a href="https://aws.amazon.com/pt/" title="AWS"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/aws.svg" alt="AWS" width="21px" height="21px"></a>
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
